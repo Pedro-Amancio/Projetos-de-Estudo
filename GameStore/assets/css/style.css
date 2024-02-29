@@ -1,0 +1,93 @@
+body{
+    background-color:black;
+    font-family: "Gluten", cursive;
+    color: white;
+}
+
+.icone-nav{
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.icone-nav:hover{
+    color: aqua;
+    font-size: 60px;
+}
+
+.logoG{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: "Honk", system-ui;
+}
+
+.linknav{
+    font-family: "Gluten", cursive
+}
+.linknav:hover{
+    color: aqua !important; 
+    font-size: 22px;
+    
+}
+.carde{
+    position: relative;
+}
+.image-principal{
+    width: 100%;
+}
+.carde, .image-principal{
+    border: none;
+    border-radius: 90px;
+    opacity: 89%;   
+    text-align: center;
+}
+.titulo-card{
+    margin-top: -60%;
+    position: relative;
+    color: aqua !important;
+}
+.titulo-card:hover{
+    font-family: "Honk", system-ui;
+}
+
+.titulo-card, .paragrafo-card , .separado-h5{ 
+    width:100%;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+
+.images-coll{
+ 
+    width: 95%;
+    height: 90%;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.images-coll:hover{
+    width: 100%;
+    height: 100%;
+    opacity: 50%;
+}
+.h5-cols{
+    margin-top: 10px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.lista-baixo{
+    list-style: none;
+}
+.cor-lista{
+    color: aquamarine;
+    margin-top: 30px;
+}
+.imagem-menina{
+    width: 100%;
+    border-radius: 30px;
+}
+.titulo-footer{
+    font-family: "Honk", system-ui;
+}
